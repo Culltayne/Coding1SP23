@@ -6,3 +6,7 @@ HeaderPractice file. [Run it on Replit](https://replit.com/@CayneZacharias/Heade
 Favorite Games List File. [Run it on Replit](https://replit.com/@CayneZacharias/Fav-Games-List#)
 
 Class Creation File. [Run it on Replit](https://replit.com/@CayneZacharias/Class-creation-Animals#main.cpp)
+
+Random Seed File. [Run it on Replit](https://replit.com/@CayneZacharias/Learning-Random-seed)
+
+Loops and Arrays File. [Run it on Replit](https://replit.com/@CayneZacharias/Learning-Loops-and-Arrays)
